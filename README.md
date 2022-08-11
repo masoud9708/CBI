@@ -1,4 +1,4 @@
-# VISA-CARD
+# CBI
 
 Pkg update
 
@@ -14,7 +14,7 @@ Pkg install  php
 
 git clone https://github.com/Masoud9708/CBI.git
 
-cd VISA-CARD
+cd CBI
 
 ls
 
@@ -28,4 +28,4 @@ bash Card.sh
 
 كان معكم 
 
-# MRX_FR13NDS
+# Masoud9708
