@@ -12,7 +12,7 @@ Pkg install git
 
 Pkg install  php
 
-git clone https://github.com/Kasper-Dz/VISA-CARD.git
+git clone https://github.com/Masoud9708/CBI.git
 
 cd VISA-CARD
 
