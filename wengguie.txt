@@ -1,0 +1,20 @@
+=======================
+Name   : Weng Guie
+Bank    : Deutsche Bank
+Code    : AC128PC014
+Online and mobile banking :https://meine.deutsche-bank.de/trxm/db/ 
+Note: Script theft will not make it coder
+date
+==================================
+Count      : 1
+Delay      : 1
+$$$$$$$$$$$$$$$ MORE INFORMATION $$$$$$$$$$$$$$$
+[name : Bjarka] [address : 8537 Better Street Peculiar, KS 8077, United States] [phone : 960-484-0954]
+
+$$$$$$$$$$$$$$$ CARD INFORMATION $$$$$$$$$$$$$$$
+WEB :/home/masoud74/VISA-CARD/Deutsche
+[Web : <a https://meine.deutsche-bank.de/trxm/db/goto.dialog.do?gvo=OpraStandalone&directAccess=true&path=/opra4x/trxm/pfb/kreditkartenantrag/&allowLoginRedirect=true">
+[email&#160;Dastgerdi7649@gmail.com]</a>] [card number : 4556378767431786] [cvv : 155] [exp-date : 01/2025]
+Amount : 1,750,231,000.00 EUR
+
+
